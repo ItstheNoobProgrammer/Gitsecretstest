@@ -1,1 +1,3 @@
 # Gitsecretstest
+
+password=helloworld
